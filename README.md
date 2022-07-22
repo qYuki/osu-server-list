@@ -1,6 +1,6 @@
 # osu! Private Server Listing
 
-[![dc](https://discordapp.com/api/guilds/982916832954568714/widget.png?style=shield)](https://discord.gg/YJs9qkStGB)
+[![dc](https://discordapp.com/api/guilds/923308600410136607/widget.png?style=shield)](https://discord.gg/mKBVX2P2Vg)
 
 A list of osu! private servers.
 
