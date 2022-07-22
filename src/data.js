@@ -1,4 +1,14 @@
 var items = [
+    {
+    name: "Gataris",
+    link: "https://osu.gatari.pw",
+    owner: "firedigger",
+    location: "RU",
+    onlineAPI: "https://c.gatari.pw/api/v1/onlineUsers",
+    instances: 1,
+    discord: "#",
+    logo: "https://osu.gatari.pw/static/images/glyphs/glyph-white.svg"
+  },
   {
     name: "Gatari",
     link: "https://osu.gatari.pw",
